@@ -1,0 +1,26 @@
+.navbar{
+  position: stick;
+  top: 0;
+  width:100%;
+  
+    background: #2deb66;
+    border-radius: 2px;
+}
+.navlist{
+    border: 1px solid;
+}
+ul{
+    text-align: left;
+    text-decoration: none;
+    justify-content: center;
+}
+a{ text-align: center;
+    margin-left: 20px;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    justify-content: space-between;
+}
+a:hover{
+    color:blue;
+}
